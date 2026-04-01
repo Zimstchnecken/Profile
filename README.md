@@ -40,7 +40,7 @@ Mc Grady Andres<br>BS Information Technology student at Quezon City University<b
 
 ---
 
-### [AI-Flashcards] (https://github.com/Zimstchnecken/AI-Flashcard)
-> Reviewing lessons using automatic flashcards
+### [AI-Flashcards](https://github.com/Zimstchnecken/AI-Flashcard)
+> Reviewing lessons using automatic flashcards.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
