@@ -37,3 +37,10 @@ Mc Grady Andres<br>BS Information Technology student at Quezon City University<b
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Genre-Platformer-ff69b4?style=for-the-badge)
+
+---
+
+### [AI-Flashcards] (https://github.com/Zimstchnecken/AI-Flashcard)
+> Reviewing lessons using automatic flashcards
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
