@@ -13,8 +13,26 @@ Mc Grady Andres<br>BS Information Technology student at Quezon City University<b
 
 [![](https://visitcount.itsvg.in/api?id=Zimstchnecken&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Projects
+### [YouTube Summarizer](https://github.com/Zimstchnecken/Youtube-Summarizer)
+> Summarize YouTube videos with AI – built with Python and the YouTube Data API.
 
-* [YouTube Summarizer](https://github.com/Zimstchnecken/Youtube-Summarizer)
-* [Multitenant SaaS Starter Kit](https://github.com/Zimstchnecken/Multitenant-SaaS)
-* [Kampeon (2D Game)](https://github.com/Zimstchnecken/Kampeon)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+---
+
+###  [Multitenant SaaS Starter Kit](https://github.com/Zimstchnecken/Multitenant-SaaS)
+> A ready‑to‑use SaaS boilerplate with multitenancy, authentication, and billing.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+---
+
+###  [Kampeon (2D Game)](https://github.com/Zimstchnecken/Kampeon)
+> A 2D  game built with Godot – includes power‑ups and boss battles.
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Genre-Platformer-ff69b4?style=for-the-badge)
